@@ -6,7 +6,7 @@
 
 ## High School of Telecommunication Arts and Technology (HSTAT), class of 2024
 ## Class Schedule:
-* English 
+* English
 * Chemistry
 * Algebra 2/Trigonometry
 * Software Engineering
@@ -14,3 +14,6 @@
 * Lunch
 * Spanish 3
 * Global History
+* Yoga (Mondays, Wednesdays, and Thursdays)
+
+V Patt was born in Park Slope, Brooklyn. on January 11th of 2006. As of now, they have lived in the neighborhood for 15 years with their parents and two cats.
