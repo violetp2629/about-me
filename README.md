@@ -1,11 +1,11 @@
 # about-me
 
-## Name: Violet Patt
+## _Name_: Violet Patt
 
-### Email: violetp2629@hstat.org
+### _Email_: violetp2629@hstat.org
 
 #### High School of Telecommunication Arts and Technology (HSTAT), class of 2024
-#### Class Schedule:
+#### _Class Schedule_:
 * English
 * Chemistry
 * Algebra 2/Trigonometry
