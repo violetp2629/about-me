@@ -19,4 +19,4 @@
 V Patt was born in Park Slope, Brooklyn. on January 11th of 2006. As of now, they have lived in the neighborhood for 15 years with their parents and two cats.  Their hobbies include:
 * Drawing
 * Baking
-* Cooking, and they consider themself to make a mean spaghetti sauce.
+* Cooking, and they consider themself to make a mean **spaghetti sauce**.
