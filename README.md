@@ -5,7 +5,9 @@
 ### _Email_: violetp2629@hstat.org
 
 #### High School of Telecommunication Arts and Technology (HSTAT), class of 2024
+
 #### _Class Schedule_:
+
 1. English
 2. Chemistry
 3. Algebra 2/Trigonometry
@@ -23,3 +25,5 @@ V Patt was born in Park Slope, Brooklyn. on January 11th of 2006. As of now, the
 * Baking
   * Cooking, and they consider themself to make a mean **spaghetti sauce**. 
 * And writing; they often rely on [thesaurus](https://www.thesaurus.com/) for good word choices.
+
+_Reviewed by Jiang!_
